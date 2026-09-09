@@ -1,0 +1,7 @@
+WW2;Pedro;1947;História;Fisico;Nao iniciado
+Amor;Luisa;2022;Romance;Digital;Concluido
+Java;Allan;2025;Tecnologia;Fisico;Em andamento
+WW1;Pedro;1922;História;Fisico;Nao iniciado
+Livro;Autor;2020;Ficção;Digital;Nao iniciado
+Livro 2;Autor 2;2000;História;Fisico;Concluido
+Portugues; Lucia; 1984; Fisico; Romance; Concluido
