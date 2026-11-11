@@ -28,7 +28,7 @@ public class CadastroFuncionariosInterface extends javax.swing.JFrame {
         txtNome.setText("");
         txtIdade.setText("");
         txtSalario.setText("");
-        cmbCargo.setSelectedItem(-1);
+        cmbCargo.setSelectedIndex(0);
         btnGrpGenero.clearSelection();
     }
 
