@@ -65,7 +65,7 @@ public class ConsultaFuncionariosInterface extends javax.swing.JFrame {
 
             },
             new String [] {
-                "ID", "Nome", "Idade", "Genero", "Cargo", "Title 6"
+                "ID", "Nome", "Idade", "Genero", "Cargo", "Salario"
             }
         ));
         jScrollPane1.setViewportView(tblFuncionarios);
